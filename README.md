@@ -1,6 +1,6 @@
-# The Third Element
+# TriplCore
 
-Welcome to **The Third Element** GitHub!
+Welcome to **TriplCore** GitHub!
 
 We are a YouTube channel run by three friends who are passionate about coding, gaming, and sharing our knowledge with the community. Here you'll find:
 
@@ -8,7 +8,7 @@ We are a YouTube channel run by three friends who are passionate about coding, g
 
 ## Our YouTube Channel
 
-Check out our latest content on [YouTube](https://www.youtube.com/channel/@TheThirdElement).
+Check out our latest content on [YouTube](https://www.youtube.com/channel/@TriplCore).
 
 Feel free to explore our repositories, contribute, or reach out to us for collaboration!
 
@@ -17,7 +17,7 @@ Feel free to explore our repositories, contribute, or reach out to us for collab
 ### Stay Connected
 
 - [Discord Server](https://discord.gg/C39jUUJM8N) 
-- [YouTube](https://www.youtube.com/channel/@TheThirdElement)
+- [YouTube](https://www.youtube.com/channel/@TriplCore)
 
 
 
